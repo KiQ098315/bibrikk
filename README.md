@@ -12,6 +12,8 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fequme&show_icons=true&theme=dark&locale=ru" alt="fequme" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fequme&show_icons=true&theme=dark&locale=ru&layout=compact" alt="bibrik" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fequme&show_icons=true&theme=dark&locale=ru" alt="bibrik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fequme&theme=dark" alt="fequme" /></p>
